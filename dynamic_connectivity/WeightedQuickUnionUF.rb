@@ -3,8 +3,8 @@
 # Implementation of Weighted Quick-union (lazy approach) from the Algorithms course from
 # Princeton University on Coursera
 # Initialisation: N
-# Find: log_2 N
-# Union: log_2 N (includes cost of finding roots)
+# Find: 1 (amortised)
+# Union: 1 (amortised; includes cost of finding roots)
 
 class WeightedQuickUnionUF
   attr_reader :id     # for rspec
