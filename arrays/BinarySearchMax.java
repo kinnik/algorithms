@@ -3,6 +3,9 @@
  * then decreasing order. 
  * Return the index of maximum number.
  * Solution should be less than O(n). Ex - {1,2,3,4,5,3,1}
+ *
+ * http://www.careercup.com/question?id=4874896538599424
+ *
  */
 
 public class BinarySearchMax
